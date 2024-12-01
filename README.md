@@ -24,8 +24,8 @@ node app.js
 ### 运行截图：
 
 登录
-![登录](.\client\src\assets\imgs\run1.png)
+![登录](https://github.com/Kayron-1/kayron-chatroom/blob/master/client/src/assets/imgs/run1.png)
 发送消息
-![发送消息](.\client\src\assets\imgs\run2.png)
+![发送消息](https://github.com/Kayron-1/kayron-chatroom/blob/master/client/src/assets/imgs/run2.png)
 表情
-![表情](.\client\src\assets\imgs\run3.png)
+![表情](https://github.com/Kayron-1/kayron-chatroom/blob/master/client/src/assets/imgs/run3.png)
