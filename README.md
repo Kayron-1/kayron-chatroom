@@ -11,7 +11,7 @@
 
 ```javascript
 npm install
-npm  run serve
+npm  run dev
 ```
 
 后端 server 文件夹 终端运行：
